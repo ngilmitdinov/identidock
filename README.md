@@ -1,1 +1,1 @@
-Exercises from "Using Docker"
+Exercises from book "Using Docker"
