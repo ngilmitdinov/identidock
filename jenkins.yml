@@ -2,8 +2,8 @@ identidock:
   build: .
   expose:
    - "9090"
-  enviroment:
-   ENV: PROD
+  environment:
+    ENV: PROD
   links:
    - dnmonster
    - redis
